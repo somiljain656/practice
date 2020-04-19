@@ -1,6 +1,6 @@
 package somil.practice.DP;
 
-public class LCM {
+public class LCS {
 	
 	public static void main(String[] args) {
 		String s1 = "somiljain", s2 = "somlijain";
